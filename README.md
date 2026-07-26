@@ -12,7 +12,6 @@ People often want to practise speaking consistently, express ideas more clearly,
 - Software engineers and job seekers
 - Professionals preparing for interviews
 - Public speakers and content creators
-
 ## MVP (Version 1)
 
 The first release focuses on a dependable voice-journaling workflow:
